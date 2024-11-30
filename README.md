@@ -1,0 +1,1 @@
+Unfortunately, if you need documentation or a README.md to understand what's going on, this is not for you. However, you can find someone with a 3D printer who knows how to program an Arduino to help. 🙏🫶😘
